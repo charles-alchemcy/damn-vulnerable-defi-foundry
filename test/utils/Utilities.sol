@@ -12,7 +12,6 @@ contract Utilities is Test {
         nextUser = keccak256(abi.encodePacked(nextUser));
         return user;
     }
-
     /// @notice create users with 100 ether balance
     function createUsers(uint256 userNum) external returns (address payable[] memory) {
         address payable[] memory users = new address payable[](userNum);

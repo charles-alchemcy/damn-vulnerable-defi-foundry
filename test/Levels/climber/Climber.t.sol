@@ -12,6 +12,7 @@ import {ClimberVault} from "../../../src/Contracts/climber/ClimberVault.sol";
 contract Climber is Test {
     uint256 internal constant VAULT_TOKEN_BALANCE = 10_000_000e18;
 
+
     Utilities internal utils;
     DamnValuableToken internal dvt;
     ClimberTimelock internal climberTimelock;

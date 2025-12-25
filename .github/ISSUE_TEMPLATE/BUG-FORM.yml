@@ -16,3 +16,4 @@ body:
       description: Tell us what you were trying to do and what happened instead. Include as much information as you think is relevant. Keep in mind that transactions can fail for many reasons; context is key here.
     validations:
       required: true
+      

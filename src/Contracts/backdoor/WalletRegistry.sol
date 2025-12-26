@@ -7,6 +7,7 @@ import {GnosisSafe} from "gnosis/GnosisSafe.sol";
 import {IProxyCreationCallback} from "gnosis/proxies/IProxyCreationCallback.sol";
 import {GnosisSafeProxy} from "gnosis/proxies/GnosisSafeProxy.sol";
 
+
 /**
  * @title WalletRegistry
  * @notice A registry for Gnosis Safe wallets.

@@ -1,6 +1,7 @@
 name: Bug report
 description: Report a bug in OpenZeppelin Contracts
 labels: ["bug"]
+
 body:
   - type: markdown
     attributes:
